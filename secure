@@ -1,0 +1,5 @@
+secure-chat/
+├── server.py
+├── client.py
+├── config.py
+└── README.md
